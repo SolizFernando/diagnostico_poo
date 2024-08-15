@@ -1,0 +1,2 @@
+module diagnostico_poo {
+}
